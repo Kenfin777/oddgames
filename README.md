@@ -1,4 +1,4 @@
-## To test the site for yourself go to https://games.odd.gay/
+## To test the site for yourself go click [HERE](https://unblockedgameskenfin77.netlify.app/)
 You can test the site [here](https://unblockedgameskenfin77.netlify.app/), or you can host it at github pages or with any of the websites that have they're own buttons(netlify, replit) If you find any bugs or issues put them in our [discord server](https://discord.gg/xksWyP9aJv) or [open an issue](https://github.com/Animationking11/unblockedgames/issues) so we can get it fixed as soon as possable!
 
 
